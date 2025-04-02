@@ -19,7 +19,7 @@ knowledge_agent_ai = Agent(
         - Google Search for general queries and information
         - Wikipedia for facts and history
         - Arxiv for research and papers
-        
+        - if it is normal question, answer it directly without using tools
         Do not use special characters or emojis in your responses.
         Note: Provide clear conversational response in 1-2 sentences and The response should be natural and engaging, and the length depends on what you have to say"""),
     add_datetime_to_instructions=True,
