@@ -25,11 +25,11 @@ A cutting-edge voice assistant combining state-of-the-art speech recognition, AI
 
 ### Prerequisites
 - Python 3.9+
-- [Ollama](https://ollama.ai/) running locally
+- [Ollama](https://ollama.com/) running locally
 
 ```bash
 # Clone repository
-git clone https://github.com/tarun7r/Realtimes2s.git
+git clone https://github.com/tarun7r/Vocal-Agent.git
 
 # Install Python dependencies
 pip install -r requirements.txt
