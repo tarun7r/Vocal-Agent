@@ -42,7 +42,9 @@ curl -fsSL https://ollama.com/install.sh | sh
 git clone https://github.com/tarun7r/Vocal-Agent.git
 
 # Install Python dependencies
-pip install -r requirements.txt
+pip3 install -r requirements.txt
+
+pip3 install --no-deps kokoro-onnx==0.4.7
 
 # Install system dependencies for linux
 sudo apt-get install espeak-ng
