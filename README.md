@@ -82,7 +82,7 @@ Response from the knowledge agent: The 2022 FIFA World Cup was won by Argentina,
 
 [Audio starts playing]
 ```
-
+![Chatbot Demo](demo.png)
 ## Configuration ⚙️
 
 Key settings in main.py:
