@@ -1,6 +1,6 @@
 # Real-Time Speech-to-Speech Chatbot 🤖
 
-A cutting-edge voice assistant combining state-of-the-art speech recognition, AI reasoning, and neural text-to-speech capabilities. Built with real-time interaction in mind.
+A cutting-edge voice assistant combining state-of-the-art speech recognition, AI reasoning, and neural text-to-speech capabilities. Built with real-time interaction in mind ( LLM tool calls)
 
 ## Features ✨
 
@@ -124,3 +124,4 @@ MIT License - See [LICENSE](https://github.com/tarun7r/Vocal-Agent/blob/main/LIC
 - [Ollama](https://ollama.ai/) for local LLM serving
 - Project inspiration from - [Weebo](https://github.com/amanvirparhar/weebo)
 - You can add more tools to the agent - [Agno Toolkits](https://docs.agno.com/tools/toolkits/toolkits)
+
