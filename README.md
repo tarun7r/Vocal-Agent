@@ -129,7 +129,7 @@ Before running the script, ensure the following are installed on your system:
 1. **Homebrew**: Install Homebrew from [https://brew.sh/](https://brew.sh/).
 2. **espeak-ng**: The script will install this using Homebrew if it's not already installed.
 3. **Ollama**: Download and install Ollama from [https://ollama.com/download/mac](https://ollama.com/download/mac)
-4. **Python 3**: Ensure Python 3 is installed on your system.
+4. Kokor Models: The script will download the onnx mdoels and voice bin using the curl
 
 ## How to Use the Script
 
