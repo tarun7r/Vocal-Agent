@@ -114,7 +114,7 @@ MAX_THREADS = 2  # Parallel processing threads
 
 ## License 📄
 
-MIT License - See LICENSE for details
+MIT License - See [LICENSE](https://github.com/tarun7r/Vocal-Agent/blob/main/LICENSE) for details
 
 ## Acknowledgements 
 
