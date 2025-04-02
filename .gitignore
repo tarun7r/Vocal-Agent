@@ -1,0 +1,8 @@
+mlx_models/
+.venv/
+./__pycache__/
+.DS_Store
+realtimesst.log
+voices-v1.0.bin
+kokoro-v1.0.onnx
+main_test.py
