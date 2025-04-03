@@ -1,4 +1,4 @@
-# Real-Time Speech-to-Speech Chatbot 🤖
+# Real-Time Cascading Speech-to-Speech Chatbot 🤖
 
 A cutting-edge voice assistant combining state-of-the-art speech recognition, AI reasoning, and neural text-to-speech capabilities. Built with real-time interaction in mind ( LLM tool calls)
 
@@ -51,6 +51,14 @@ sudo apt-get install espeak-ng
 
 # For Mac users use brew to install 
 brew install espeak-ng
+
+# Install system dependencies for Windows
+To install precompiled binaries of eSpeak NG on Windows:
+
+1. Visit the [eSpeak NG Releases](https://github.com/espeak-ng/espeak-ng/releases) page.
+2. Click on the **Latest release** and download the appropriate `.msi` file, e.g., `espeak-ng-20191129-b702b03-x64.msi`.
+3. Execute the downloaded installer package to complete the installation.
+4. For advanced configuration and usage, refer to the [eSpeak NG User Guide](https://github.com/espeak-ng/espeak-ng/blob/master/docs/guide.md).
 ```
 
 ## Models Setup 🧠
