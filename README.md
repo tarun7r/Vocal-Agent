@@ -139,8 +139,8 @@ The `vocal_agent_mac.sh` script automates the setup and execution of the Vocal-A
 
 Before running the script, ensure the following are installed on your system:
 
-1. **Homebrew**: Install Homebrew from [https://brew.sh/](https://brew.sh/).
-2. **espeak-ng**: The script will install this using Homebrew if it's not already installed.
+1. **Homebrew**: Install Homebrew from [https://brew.sh/](https://brew.sh/)
+2. **espeak-ng**: The script will install this using Homebrew if it's not already installed
 3. **Ollama**: Download and install Ollama from [https://ollama.com/download/mac](https://ollama.com/download/mac)
 4. Kokor Models: The script will download the onnx mdoels and voice bin using the curl
 
