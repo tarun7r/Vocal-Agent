@@ -1,6 +1,6 @@
 # Real-Time Cascading Speech-to-Speech Chatbot 🤖
 
-A cutting-edge Cascading voice assistant combining state-of-the-art speech recognition, AI reasoning, and neural text-to-speech capabilities. Built with real-time interaction in mind ( LLM tool calls)
+A cutting-edge Cascading voice assistant combining speech recognition, AI reasoning, and neural text-to-speech capabilities. Built with real-time interaction in mind ( LLM tool calls )
 
 ## Features ✨
 
@@ -68,7 +68,7 @@ To install precompiled binaries of eSpeak NG on Windows:
 
 ### Llama 3.1 8B:
 ```bash
-ollama pull llama3.1:8b
+ollama pull llama3.1:8b ( you can run any model which supports tool calling according to you requirement )
 ```
 
 ### Kokoro Models:
